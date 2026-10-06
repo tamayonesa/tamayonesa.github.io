@@ -1,0 +1,13 @@
+site_name: Alex Tamayo
+site_url: https://tamayonesa.github.io/
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.tabs
+    - search.suggest
+    - content.code.copy
+nav:
+  - Inicio: index.md
+  - Write-ups: writeups/index.md
+  - Apuntes: apuntes/index.md
